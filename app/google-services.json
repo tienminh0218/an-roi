@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37475775189",
+    "project_id": "android-bd5d8",
+    "storage_bucket": "android-bd5d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37475775189:android:d320493ade7c5984cfe85c",
+        "android_client_info": {
+          "package_name": "com.example.thb3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37475775189-ijkrakhk40hmbl7lhb789p12pq0id187.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEzla501222_h8YgyE9hqJIITvKLCI8Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37475775189-ijkrakhk40hmbl7lhb789p12pq0id187.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
